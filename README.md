@@ -1,9 +1,8 @@
-### This is a sample react app designed to explore open maps api.
+### This is a sample react app.
 
 ## React concepts covered:
 * Redux
 * Thunk
-* Open Maps API
 * Reselct
 * Pnpm
 
